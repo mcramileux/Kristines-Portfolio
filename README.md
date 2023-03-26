@@ -30,13 +30,26 @@ Throughout the process of building my portfolio, I learned a great deal about HT
 
 ## Screenshots 
 
-Provide instructions and examples for use. Include screenshots as needed.
+When I was started my code, I created first using the media screen of 600px, and from there I haved fixed the code to meet each other's needs when viewing with different devices.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The following screenshots are presented below:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Small Screens for at least 500px
+![500pxpart1](https://user-images.githubusercontent.com/122607160/227791115-b975bd05-57fe-4983-b440-b62a7075daf3.png)
+
+![500pxpart2](https://user-images.githubusercontent.com/122607160/227791121-1c1a7516-92ae-4c55-86b5-b7276464f9b3.png)
+
+## Medium Screens for at least 768px
+![768pxpart1](https://user-images.githubusercontent.com/122607160/227791126-b9c55577-64ba-4abb-a309-8813f92af614.png)
+
+![768pxpart2](https://user-images.githubusercontent.com/122607160/227791135-49e5f5ec-560a-4c42-b233-823a5a138dab.png)
+
+## Large Screens for at least 992px
+![992pxpart1](https://user-images.githubusercontent.com/122607160/227791138-9b1b25a5-6818-45a3-928a-315a600b4e23.png)
+
+![992pxpart2](https://user-images.githubusercontent.com/122607160/227791143-8c5b7330-ab1e-4dc3-a9fc-9bf0a2923346.png)
+
+![992pxpart3](https://user-images.githubusercontent.com/122607160/227791150-a298f9a4-7f2e-4d19-bf86-9dee38ab36ce.png)
 
 ## Credits
 
@@ -53,6 +66,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - [Unsplash](https://https://unsplash.com/) licenced photos for my [banner](https://rb.gy/qw1tml/), [black-waves1](https:////rb.gy/jimcub/) and [black-waves2](https://rb.gy/qysda8) that used to my portfolio.
 
 - [ChatGPT](https://chat-gpt.org/chat) Online for my About Me and Readme description just to make it sound more professional and for more understanding on the terms that I cannot comprehend at first.
+
+- Meyer Web's [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - I found this css reset that is very friendly to use and its main goal is to reduce browser inconsistencies from html tags and css selectors and properties.
 
 
 
