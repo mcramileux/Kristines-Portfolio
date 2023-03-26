@@ -70,6 +70,8 @@ section h2 {
     border-bottom: 3px solid whitesmoke;
     display: inline-block;
     margin-bottom: 10px;
+    min-width: 8ch;
+    max-width: 8ch;
 }
 
 img {
@@ -100,15 +102,23 @@ img:hover {
     position: absolute;
     bottom: 50px;
     display: inline-block;
-    background-color: beige;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    
 }
+
 
 #gallery p {
     position: absolute;
-    bottom: 50px;
+    bottom: 20px;
     display: inline-block;
-    background-color: beige;
+    background-color: black;
+    color: white;
+    font-weight: 200;
+    font-size: 20px;
 }
+
 
 #gallery a:nth-child(even) {
     padding-right: 10px;
@@ -123,17 +133,29 @@ img:hover {
     padding: 0;
 }
 
-
 main {
     margin: 0 10px;
-
 }
 
 #contact-details {
     display: flex;
     text-align: center;
-    
-    
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#contact-details img {
+    width: 150px;
+
+}
+
+#contact-details a {
+    color:azure;
+    font-size: large;
+}
+
+#contact-details a:hover {
+    color:gray;
 }
 
 #contact-details nav {
@@ -144,7 +166,8 @@ main {
     padding: 20px;
     padding-bottom: 20px;
     font-size: 20px;
-    
+    flex-direction: column-reverse;
+    color: gainsboro;
     
 }
 
@@ -160,8 +183,6 @@ footer {
     text-align: center;
     color: whitesmoke;
 }
-
-
 
 @media only screen and (min-width: 600px) {
     header {
@@ -214,6 +235,8 @@ footer {
       border-bottom: none;
       margin-bottom: 0px;
       display: block;
+      max-width: ;
+      
 }
         
     section .content {
