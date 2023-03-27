@@ -16,7 +16,8 @@ Throughout the process of building my portfolio, I learned a great deal about HT
     
     3. Deploy the project to https://www.github.com by going to the Settings > Code and automation > Pages > Build and deployment > Source. 
 
-    # Other Option: Check out the deployed or live site 
+## Usage
+Please see the Live site: https://mcramileux.github.io/Kristines-Portfolio/
 
 ## Technologies
 
