@@ -38,19 +38,17 @@ The following screenshots are presented below:
 ## Small Screens for at least 500px
 ![500pxpart1](https://user-images.githubusercontent.com/122607160/227791115-b975bd05-57fe-4983-b440-b62a7075daf3.png)
 
-![500pxpart2](https://user-images.githubusercontent.com/122607160/227791121-1c1a7516-92ae-4c55-86b5-b7276464f9b3.png)
+![small-version](https://github.com/mcramileux/Kristines-Portfolio/assets/122607160/83d9b647-5126-4e06-8956-5ac09f669d39)
 
 ## Medium Screens for at least 768px
 ![768pxpart1](https://user-images.githubusercontent.com/122607160/227791126-b9c55577-64ba-4abb-a309-8813f92af614.png)
 
-![768pxpart2](https://user-images.githubusercontent.com/122607160/227791135-49e5f5ec-560a-4c42-b233-823a5a138dab.png)
+![medium-version](https://github.com/mcramileux/Kristines-Portfolio/assets/122607160/e23ec222-45c1-47d5-87d7-33afee56fc32)
 
 ## Large Screens for at least 992px
 ![992pxpart1](https://user-images.githubusercontent.com/122607160/227791138-9b1b25a5-6818-45a3-928a-315a600b4e23.png)
 
 ![992pxpart2](https://user-images.githubusercontent.com/122607160/227791143-8c5b7330-ab1e-4dc3-a9fc-9bf0a2923346.png)
-
-![992pxpart3](https://user-images.githubusercontent.com/122607160/227791150-a298f9a4-7f2e-4d19-bf86-9dee38ab36ce.png)
 
 ## Credits
 
